@@ -1,0 +1,8 @@
+Dictionary: key-value pairs
+
+1. it keeps order
+2. heterogeneous
+3. duplicate keys not support but value support
+4. not support indexing
+5. dictionary is mutable
+6. support nesting

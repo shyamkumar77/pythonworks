@@ -1,0 +1,9 @@
+tuple()
+......
+
+1. tuple keeps order
+2. heterogeneous
+3. support duplication
+4. support indexing/slicing
+5. nesting is possible
+6. tuple is immutable

@@ -1,0 +1,9 @@
+set
+....
+
+1. set doesnt keep order
+2. set is heterogenoeus(support different types of data)
+3. doesnt support duplication
+4. doesnt support indexing
+5. set is mutable (updation possible) like add,remove
+6. nesting not possible #ie s1={2,4,6,8,1,3,5,7,{2,4,5}}  set inside set not possible

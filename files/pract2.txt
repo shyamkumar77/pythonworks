@@ -1,0 +1,10 @@
+Our mission is to provide 100% placements to students those who enrol for our specialised courses.
+Our Placement assistance starts with Resume preparation, Mock Interviews by real working professionals,
+Aptitude test training & Interviews. We will provide unlimited placement assistance till the student is placed satisfactorily.
+
+
+For beginners to coding, Python is an excellent place to start. A big hurdle for aspiring programmers is the difficult
+task of learning a new programming language that might not look anything like what they are used to writing or reading.
+But, Python features English syntax and is designed to be easy to learn, making it more accessible to beginners in coding
+when compared to many other programming languages. Moreover, as Python is an interpreted programming language, it can be easy
+to learn.

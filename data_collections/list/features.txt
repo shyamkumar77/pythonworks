@@ -1,0 +1,9 @@
+list
+......
+
+1. list keeps order
+2. heterogeneous
+3. support duplication
+4. support indexing
+5. mutable
+6. nesting is possible #ie, l1=[2,3,4,5,6,[5,6,4,7,[5,4]]
